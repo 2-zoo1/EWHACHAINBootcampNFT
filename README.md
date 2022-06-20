@@ -2,7 +2,7 @@
 - Contract Address (rinkeby): 0xAf289f4A821b8a7D92b0f3163A24527C2399a50B
 - Etherscan : https://rinkeby.etherscan.io/address/0xAf289f4A821b8a7D92b0f3163A24527C2399a50B#code
 
-## developed for the purpose of EWHA-CHAIN Bootcamp 2022-1 Session
+## Developed for the purpose of EWHA-CHAIN Bootcamp 2022-1 Session
 EWHA-CHAIN is the blockchain academic club of Ewha Womans University in South Korea.<p>
 - Github: https://github.com/EWHA-CHAIN <p>
 - Website: https://www.ewhachain.com/ <p>
